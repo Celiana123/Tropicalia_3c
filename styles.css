@@ -14,8 +14,8 @@ body {
 }
 
 header {
-    background-color: #d7b8e4;
-}
+    background-color: #70075688;
+    
 
 
 section {
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #610d729f;
+    background-color: #610d72de;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #25022eaf;
+    background-color: #9520b3b2;
     border: none;
     font-weight: bold;
 }
